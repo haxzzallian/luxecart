@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp.router(
       routerConfig: appRouter,
-      title: 'Giftpose',
+      title: 'LuxeCart',
       theme: AppTheme.lightThemeMode,
       debugShowCheckedModeBanner: false,
       builder: EasyLoading.init(),
